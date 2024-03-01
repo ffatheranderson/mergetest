@@ -1,1 +1,2 @@
 Changes in commit B
+CHange for commit C
